@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+
+    auto israining = true;
+    auto isnotraining = false ;
+
+    cout <<"is raining = " << israining << endl;
+    cout <<"is not raining = " << isnotraining << endl;
+
+    return 0;
+}
